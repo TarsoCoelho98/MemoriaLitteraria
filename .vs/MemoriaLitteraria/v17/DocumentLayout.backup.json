@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\wwwroot\\js\\section.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\wwwroot\\js\\section.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\repositories\\authorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\services\\fileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\services\\sectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\viewmodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\viewmodels\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\viewmodels\\snippet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\viewmodels\\snippet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\home\\_section.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\home\\_section.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|c:\\users\\tarso\\source\\repos\\memorialitteraria\\memorialitteraria\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36096BBB-0512-4B00-ACBA-BBB81379AC5D}|MemoriaLitteraria\\MemoriaLitteraria.csproj|solutionrelative:memorialitteraria\\repositories\\sectionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "MemoriaLitteraria\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-30T20:01:50.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Models\\Author.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Models\\Author.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:56:14.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Repositories\\AuthorRepository.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Repositories\\AuthorRepository.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Repositories\\AuthorRepository.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Repositories\\AuthorRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:30:25.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AuthorService.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Services\\AuthorService.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Services\\AuthorService.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Services\\AuthorService.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Services\\AuthorService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:30:14.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SectionService.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Services\\SectionService.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Services\\SectionService.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Services\\SectionService.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Services\\SectionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:30:04.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\ViewModels\\Error.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\ViewModels\\Error.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\ViewModels\\Error.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\ViewModels\\Error.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:29:54.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Models\\Section.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Models\\Section.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:14:48.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Models\\File.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Models\\File.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Models\\File.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Models\\File.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:53:55.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:00:15.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\js\\home.js",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\wwwroot\\js\\home.js",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\js\\home.js",
+              "RelativeToolTip": "MemoriaLitteraria\\wwwroot\\js\\home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-26T13:57:04.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "section.js",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\js\\section.js",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\wwwroot\\js\\section.js",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\js\\section.js",
+              "RelativeToolTip": "MemoriaLitteraria\\wwwroot\\js\\section.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-28T21:14:37.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "MemoriaLitteraria\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-07-30T19:55:18.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-29T16:08:27.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T14:02:47.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T18:28:01.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T18:27:56.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T18:27:54.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Section.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Home\\_Section.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\Home\\_Section.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\Home\\_Section.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\Home\\_Section.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T20:58:43.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FileService.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Services\\FileService.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Services\\FileService.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Services\\FileService.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Services\\FileService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:53:52.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MemoriaLitteraria\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-30T18:27:51.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Snippet.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\ViewModels\\Snippet.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\ViewModels\\Snippet.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\ViewModels\\Snippet.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\ViewModels\\Snippet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T14:12:22.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\appsettings.Development.json",
+              "RelativeToolTip": "MemoriaLitteraria\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T18:27:36.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\appsettings.json",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\appsettings.json",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\appsettings.json",
+              "RelativeToolTip": "MemoriaLitteraria\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-30T18:27:16.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Program.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Program.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Program.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T18:27:04.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "SectionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Repositories\\SectionRepository.cs",
+              "RelativeDocumentMoniker": "MemoriaLitteraria\\Repositories\\SectionRepository.cs",
+              "ToolTip": "C:\\Users\\tarso\\source\\repos\\MemoriaLitteraria\\MemoriaLitteraria\\Repositories\\SectionRepository.cs",
+              "RelativeToolTip": "MemoriaLitteraria\\Repositories\\SectionRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-27T19:16:20.853Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

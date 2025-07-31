@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Memoria Litteraria</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/MemoriaLitteraria.styles.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+    <style>
+        body {
+            font-family: Cambria;
+        }
+
+        p {
+            font-family: Cambria
+        }
+
+        input {
+            font-family: Cambria;
+        }
+
+        .search-block {
+            position: relative;
+            padding-left: 2.5rem;
+        }
+
+            .search-block::before {
+                content: "\f002";
+                font-family: Font Awesome 6 Free;
+                position: absolute;
+                top: -0.5rem;
+                left: 0;
+                font-size: 2rem;
+                color: rgba(13, 110, 253, 0.2);
+                font-family: Font Awesome 6 Free;
+                line-height: 1;
+                text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            }
+
+        .quote-block {
+            position: relative;
+            padding-left: 2.5rem;
+        }
+
+            .quote-block::before {
+                content: "“";
+                font-family: Georgia, serif;
+                position: absolute;
+                top: -0.5rem;
+                left: 0;
+                font-size: 3rem;
+                color: rgba(13, 110, 253, 0.2);
+                font-family: Font Awesome 6 Free;
+                line-height: 1;
+                text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
+            }
+
+        .quote-text {
+            text-align: justify;
+            font-size: inherit;
+            font-family: Cambria, serif;
+        }
+
+        input::placeholder {
+            font-family: Cambria;
+            color: inherit;
+            opacity: 1;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container-fluid">
+                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">Memoria Litteraria</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                        aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - Memoria Litteraria
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
