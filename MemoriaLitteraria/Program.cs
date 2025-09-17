@@ -12,7 +12,7 @@ builder.Services.AddSingleton<IMongoClient>(sp =>
     return new MongoClient(connectionString);
 });
 
-builder.Services.AddScoped(sp =>
+builder.Services.AddSingleton(sp =>
 {
     var client = sp.GetRequiredService<IMongoClient>();
     var databaseName = builder.Configuration["Database"]; 
