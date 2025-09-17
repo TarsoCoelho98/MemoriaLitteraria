@@ -1,15 +1,15 @@
-﻿using MemoriaLitteraria.Repositories;
+﻿using MemoriaLitteraria.Interfaces;
 
 namespace MemoriaLitteraria.Services
 {
-    public class FileService
+    public class FileService : IFileService
     {
-        private readonly FileRepository _repository;
+        private readonly IFileRepository _repository;
 
-        public FileService(FileRepository repository) {
+        public FileService(IFileRepository repository) {
             _repository = repository;
         }
 
-        public Task<Models.File> GetFileAsync(int id) => _repository.GetFileAsync(id);
+        public async Task<Models.File> GetFileAsync(int id) => await _repository.GetFileAsync(id);
     }
 }

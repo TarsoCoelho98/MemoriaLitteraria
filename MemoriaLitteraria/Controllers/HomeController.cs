@@ -1,5 +1,5 @@
-﻿using MemoriaLitteraria.Models;
-using MemoriaLitteraria.Services;
+﻿using MemoriaLitteraria.Interfaces;
+using MemoriaLitteraria.Models;
 using MemoriaLitteraria.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
@@ -9,11 +9,11 @@ namespace MemoriaLitteraria.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        private readonly FileService _fileService;
-        private readonly AuthorService _authorService;
-        private readonly SectionService _sectionService;
+        private readonly IFileService _fileService;
+        private readonly IAuthorService _authorService;
+        private readonly ISectionService _sectionService;
 
-        public HomeController(ILogger<HomeController> logger, FileService fileService, AuthorService authorService, SectionService sectionService)
+        public HomeController(ILogger<HomeController> logger, IFileService fileService, IAuthorService authorService, ISectionService sectionService)
         {
             _logger = logger;
             _fileService = fileService;

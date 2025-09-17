@@ -1,3 +1,4 @@
+using MemoriaLitteraria.Interfaces;
 using MemoriaLitteraria.Repositories;
 using MemoriaLitteraria.Services;
 using MongoDB.Driver;
@@ -18,12 +19,12 @@ builder.Services.AddScoped(sp =>
     return client.GetDatabase(databaseName);
 });
 
-builder.Services.AddScoped<FileRepository>();
-builder.Services.AddScoped<FileService>();
-builder.Services.AddScoped<AuthorRepository>();
-builder.Services.AddScoped<AuthorService>();
-builder.Services.AddScoped<SectionService>();
-builder.Services.AddScoped<SectionRepository>();
+builder.Services.AddScoped<IFileRepository, FileRepository>();
+builder.Services.AddScoped<IAuthorRepository, AuthorRepository>();
+builder.Services.AddScoped<ISectionRepository, SectionRepository>();
+builder.Services.AddScoped<IFileService, FileService>();
+builder.Services.AddScoped<IAuthorService, AuthorService>();
+builder.Services.AddScoped<ISectionService, SectionService>();
 
 var app = builder.Build();
 

@@ -1,9 +1,10 @@
-﻿using MemoriaLitteraria.Models;
+﻿using MemoriaLitteraria.Interfaces;
+using MemoriaLitteraria.Models;
 using MongoDB.Driver;
 
 namespace MemoriaLitteraria.Repositories
 {
-    public class SectionRepository
+    public class SectionRepository : ISectionRepository
     {
         private readonly IMongoCollection<Section> _sections;
         const int MaxSectionCount = 10;

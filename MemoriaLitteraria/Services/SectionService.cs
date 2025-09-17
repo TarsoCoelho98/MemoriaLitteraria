@@ -1,17 +1,17 @@
-﻿using MemoriaLitteraria.Models;
-using MemoriaLitteraria.Repositories;
+﻿using MemoriaLitteraria.Interfaces;
+using MemoriaLitteraria.Models;
 
 namespace MemoriaLitteraria.Services
 {
-    public class SectionService
+    public class SectionService : ISectionService
     {
-        private readonly SectionRepository _repository;
+        private readonly ISectionRepository _repository;
 
-        public SectionService(SectionRepository repository)
+        public SectionService(ISectionRepository repository)
         {
             _repository = repository;
         }
 
-        public Task<List<Section>> GetSectionsAsync(string search) => _repository.GetSectionsAsync(search);
+        public async Task<List<Section>> GetSectionsAsync(string search) => await _repository.GetSectionsAsync(search);
     }
 }

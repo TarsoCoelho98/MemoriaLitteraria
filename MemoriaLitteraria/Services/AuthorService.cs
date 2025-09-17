@@ -1,17 +1,18 @@
-﻿using MemoriaLitteraria.Models;
+﻿using MemoriaLitteraria.Interfaces;
+using MemoriaLitteraria.Models;
 using MemoriaLitteraria.Repositories;
 
 namespace MemoriaLitteraria.Services
 {
-    public class AuthorService
+    public class AuthorService : IAuthorService
     {
-        private readonly AuthorRepository _repository;
+        private readonly IAuthorRepository _repository;
 
-        public AuthorService(AuthorRepository repository)
+        public AuthorService(IAuthorRepository repository)
         {
             _repository = repository;
         }
 
-        public Task<Author> GetAuthorAsync(int id) => _repository.GetAuthorAsync(id);
+        public async Task<Author> GetAuthorAsync(int id) => await _repository.GetAuthorAsync(id);
     }
 }

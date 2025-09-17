@@ -1,9 +1,9 @@
-﻿using MongoDB.Driver;
-using MemoriaLitteraria.Models;
+﻿using MemoriaLitteraria.Interfaces;
+using MongoDB.Driver;
 
 namespace MemoriaLitteraria.Repositories
 {
-    public class FileRepository
+    public class FileRepository : IFileRepository
     {
         private readonly IMongoCollection<Models.File> _files;
 

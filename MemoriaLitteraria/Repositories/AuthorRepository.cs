@@ -1,9 +1,10 @@
-﻿using MemoriaLitteraria.Models;
+﻿using MemoriaLitteraria.Interfaces;
+using MemoriaLitteraria.Models;
 using MongoDB.Driver;
 
 namespace MemoriaLitteraria.Repositories
 {
-    public class AuthorRepository
+    public class AuthorRepository : IAuthorRepository
     {
         private readonly IMongoCollection<Author> _authors;
 
